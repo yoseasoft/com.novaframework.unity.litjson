@@ -1,0 +1,25 @@
+{
+  "name": "com.novaframework.unity.litjson",
+  "displayName": "NovaFramework-Unity Litjson",
+  "description": "NovaFramework-Unity Litjson Package",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "unityRelease": "0f1",
+  "license": "MIT",
+  "keywords": [ "Unity", "NovaFramework", "Litjson" ],
+  "author": {
+    "name": "hurley",
+    "email": "yoseasoft@163.com",
+    "url": "https://github.com/yoseasoft/com.novaframework.unity.litjson"
+  },
+  "repository": {
+    "name": "com.novaframework.unity.litjson",
+    "type": "git",
+    "url": "https://github.com/yoseasoft/com.novaframework.unity.litjson.git"
+  },
+  "relatedPackages": {},
+  "dependencies": {
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0"
+  }
+}
