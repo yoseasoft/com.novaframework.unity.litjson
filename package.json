@@ -1,7 +1,7 @@
 {
   "name": "com.novaframework.unity.litjson",
-  "displayName": "NovaFramework-Unity Litjson",
-  "description": "NovaFramework-Unity Litjson Package",
+  "displayName": "NovaFramework.Litjson",
+  "description": "The Litjson package for NovaFramework",
   "version": "1.0.0",
   "unity": "2018.3",
   "unityRelease": "0f1",
