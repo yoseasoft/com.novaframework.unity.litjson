@@ -1,4 +1,4 @@
-﻿## NovaFramework - Unity 工程插件
+## NovaFramework - Unity 工程插件
 
 NovaFramework的Litjson插件，提供Json操作相关的功能接口。
 
