@@ -2,6 +2,12 @@
 
 NovaFramework的Litjson插件，提供Json操作相关的功能接口。
 
+## 简介
+
+这里没有使用原生的[LitJson](https://github.com/LitJSON/litjson)库，
+而是使用了[LitJson4Unity](https://github.com/XINCGer/LitJson4Unity)，
+因为它基于原生库上做了一些增强，具体增强功能可以参考其仓库说明。
+
 ## 使用文档
 
 ## 注意事项
